@@ -30,4 +30,4 @@ print(f"Hello, {name}")
 first, last = name.split(" ")
 print(f"Hello, {first}")
 
-print("\n\nThis is for checking whether all the changes are made to the GitHub or not")
+print("\n\nThis is for checking whether all the changes are made to the GitHub or not.")

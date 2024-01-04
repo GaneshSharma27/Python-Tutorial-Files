@@ -12,4 +12,10 @@ You can find more such functions in the `print()` function's documentation avail
 * Declared variables that take decimal/float input using the `float(input())` function.
 * How `a / b` is different from `a // b`.
 * Using `print((a / b):.2f)` prints the result upto 2 decimal places.
-* Learned about functions and its arguments & parameters.
+* Learned about functions and their arguments & parameters.
+
+### 3) In `03_Calculator2.py`
+* Used user-defined function `square()` which returns `n ** 2`, there's a difference between `n * 2` and `n ** 2` the former means multiplication and the other means raised to 2.
+* The other one returns the `pow()` function, it takes a number and raises it to a number as function arguments. The `pow()` function takes two parameters one as a number and another as a number which is raised to.
+
+### 4) in
